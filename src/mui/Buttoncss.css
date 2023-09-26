@@ -1,0 +1,60 @@
+.classes.margin {
+  position: absolute;
+  top: -500px;
+  bottom: 10px;
+  left: 0px;
+  height: 20px;
+}
+
+.custom-button {
+  position: relative;
+  top: -50px;
+  right: -10px;
+  height: 40px;
+  margin-right: 5px;
+  border-radius: 3px;
+  border: none;
+}
+
+#refresh {
+  background-color: #fc7500;
+  color: white;
+  position: relative;
+  top: -48px;
+}
+
+#edit {
+  position: relative;
+  top: -50px;
+  right: -10px;
+  height: 40px;
+  margin-right: 5px;
+  border-radius: 3px;
+  border: none;
+  background-color: #fc7500;
+  box-shadow: none;
+}
+
+#editDis {
+  position: relative;
+  top: -50px;
+  right: -10px;
+  height: 40px;
+  margin-right: 5px;
+  border-radius: 3px;
+  border: none;
+  background-color: grey;
+  box-shadow: none;
+  position: relative;
+}
+
+#predict {
+  position: relative;
+  top: -47px;
+  right: -10px;
+  height: 40px;
+  margin-right: 5px;
+  border-radius: 3px;
+  border: none;
+  box-shadow: none;
+}

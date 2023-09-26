@@ -1,0 +1,35 @@
+/* #button1 {
+  position: relative;
+  top: -660px;
+  right: -960px;
+  height: 45px;
+}*/
+#button2 {
+  /* position: relative; */
+  /* top: -660px; */
+  /* right: -970px; */
+  height: 50px;
+  width: 100px;
+  background-color: #8fd163;
+  color: #000;
+  margin: 10px;
+  right: 20px;
+}
+
+.Headerbutton {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#search {
+  position: relative;
+  height: 40px;
+  width: 218px;
+  margin: 10px;
+  border-radius: 5px;
+  margin-right: 15px;
+  border: none;
+  text-align: center;
+  box-shadow: none;
+}

@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.MuiTypography-body2 {
+  color: white !important;
+}
+.MuiSvgIcon-root {
+  color: white !important;
+}
+.MuiTablePagination-input {
+  color: white !important;
+}
+.MuiDataGrid-root .MuiDataGrid-columnHeaderTitle {
+  border: none !important;
+}
+.MuiDataGrid-root .MuiDataGrid-columnHeaderTitleContainer {
+  width: 500px !important;
+}
+.MuiDataGrid-root .MuiDataGrid-columnHeader--sortable {
+  width: 500px !important;
+}
+.MuiDataGrid-root {
+  border: none !important;
+}
+.MuiCheckbox-colorPrimary.Mui-checked {
+  color: orange !important;
+}
+.MuiCheckbox-root {
+  color: orange !important;
+}
+.MuiIconButton-colorPrimary {
+  color: orange !important;
+}
+.MuiDataGrid-root .MuiDataGrid-columnHeaderTitle {
+  width: fit-content;
+}
